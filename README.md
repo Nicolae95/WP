@@ -1,3 +1,2 @@
-# FAF-141-Nicolae-Botnari
+# Nicolae-Botnari small projects
 
-PW Laboratories
