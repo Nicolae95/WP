@@ -1,4 +1,4 @@
-package com.example.dennis.app;
+package com.example.nicolae.app;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -12,7 +12,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 /**
- * Created by Dennis on 11-May-16.
+ * Created by Nicolae on 11-May-16.
  */
 public class SettingsActivity extends AppCompatActivity {
 

@@ -1,7 +1,7 @@
-package com.example.dennis.app;
+package com.example.nicolae.app;
 
 /**
- * Created by Dennis on 13-May-16.
+ * Created by Nicolae on 13-May-16.
  */
 
 import android.text.InputFilter;

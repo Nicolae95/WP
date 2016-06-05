@@ -1,4 +1,4 @@
-package com.example.dennis.app;
+package com.example.nicolae.app;
 
 import android.app.Activity;
 import android.app.NotificationManager;
